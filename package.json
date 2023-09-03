@@ -1,6 +1,6 @@
 {
   "name": "calculator",
-  "homepage": "https://jaya1711.github.io/calculator/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
